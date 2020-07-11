@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1badb39-fe7a-4a66-809c-b7c860f93ae3" name="Default Changelist" comment="" />
+    <list default="true" id="f1badb39-fe7a-4a66-809c-b7c860f93ae3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/PrintFromTopToBottom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PrintMatrixClockwisely.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PrintMatrixClockwiselyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MirrorOfBinaryTree_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MirrorOfBinaryTree_19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/datastructure/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructure/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MirrorOfBinaryTree_19Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MirrorOfBinaryTree_19Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/MirrorOfBinaryTree_19.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MirrorOfBinaryTree_19.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/datastructure/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/datastructure/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/FactorialTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/MirrorOfBinaryTree_19Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/MirrorOfBinaryTree_19Test.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -27,7 +40,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1eXjQKEBDrNvw0Cf8axoLOEB4fx" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -41,8 +56,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="datastructure" />
       <recent name="" />
+      <recent name="datastructure" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -60,18 +75,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MirrorOfBinaryTree_19Test">
+  <component name="RunManager" selected="JUnit.PrintMatrixClockwiselyTest">
     <configuration name="FactorialTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.yc.java" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FactorialTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FactorialTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="offer" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="FactorialTest" />
       <option name="TEST_OBJECT" value="class" />
@@ -83,6 +89,25 @@
       <module name="com.yc.java" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="MirrorOfBinaryTree_19Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MirrorOfBinaryTree_19Test.mirrorLoop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.yc.java" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MirrorOfBinaryTree_19Test" />
+      <option name="METHOD_NAME" value="mirrorLoop" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintMatrixClockwiselyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.yc.java" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PrintMatrixClockwiselyTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -152,10 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PrintMatrixClockwiselyTest" />
         <item itemvalue="JUnit.MirrorOfBinaryTree_19Test" />
+        <item itemvalue="JUnit.MirrorOfBinaryTree_19Test.mirrorLoop" />
         <item itemvalue="JUnit.TreeNodeTest" />
         <item itemvalue="JUnit.FactorialTest (1)" />
-        <item itemvalue="JUnit.FactorialTest" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +196,7 @@
       <option name="presentableId" value="Default" />
       <updated>1594474813936</updated>
       <workItem from="1594474817348" duration="1334000" />
-      <workItem from="1594476312590" duration="8428000" />
+      <workItem from="1594476312590" duration="11363000" />
     </task>
     <servers />
   </component>
