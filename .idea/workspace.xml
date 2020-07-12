@@ -2,18 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1badb39-fe7a-4a66-809c-b7c860f93ae3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/PrintFromTopToBottom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PrintMatrixClockwisely.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PrintMatrixClockwiselyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FindNumberIn2DArray_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FindRepeatNumber_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ReplaceSpace_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FindNumberIn2DArray_04Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FindRepeatNumber_03Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ReplaceSpace_05Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MirrorOfBinaryTree_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MirrorOfBinaryTree_19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastructure/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructure/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/MirrorOfBinaryTree_19Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MirrorOfBinaryTree_19Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Factorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/MirrorOfBinaryTree_19.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MirrorOfBinaryTree_19.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/datastructure/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/datastructure/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/FactorialTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/MirrorOfBinaryTree_19Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/MirrorOfBinaryTree_19Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PrintFromTopToBottom_23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PrintFromTopToBottom_23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PrintMatrixClockwisely.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/PrintMatrixClockwiselyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/PrintMatrixClockwiselyTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit4 Test Class" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -75,11 +73,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PrintMatrixClockwiselyTest">
-    <configuration name="FactorialTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager">
+    <configuration name="FindNumberIn2DArray_04Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.yc.java" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FactorialTest" />
+      <option name="MAIN_CLASS_NAME" value="FindNumberIn2DArray_04Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindRepeatNumber_03Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.yc.java" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FindRepeatNumber_03Test" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,35 +101,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MirrorOfBinaryTree_19Test.mirrorLoop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PrintMatrixClockwisely_20Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.yc.java" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MirrorOfBinaryTree_19Test" />
-      <option name="METHOD_NAME" value="mirrorLoop" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrintMatrixClockwiselyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.yc.java" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PrintMatrixClockwiselyTest" />
+      <option name="MAIN_CLASS_NAME" value="PrintMatrixClockwisely_20Test" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeNodeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ReplaceSpace_05Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.yc.java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="datastructure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="datastructure" />
-      <option name="MAIN_CLASS_NAME" value="datastructure.TreeNodeTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ReplaceSpace_05Test" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -177,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PrintMatrixClockwiselyTest" />
+        <item itemvalue="JUnit.ReplaceSpace_05Test" />
+        <item itemvalue="JUnit.FindNumberIn2DArray_04Test" />
+        <item itemvalue="JUnit.FindRepeatNumber_03Test" />
+        <item itemvalue="JUnit.PrintMatrixClockwisely_20Test" />
         <item itemvalue="JUnit.MirrorOfBinaryTree_19Test" />
-        <item itemvalue="JUnit.MirrorOfBinaryTree_19Test.mirrorLoop" />
-        <item itemvalue="JUnit.TreeNodeTest" />
-        <item itemvalue="JUnit.FactorialTest (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +187,7 @@
       <option name="presentableId" value="Default" />
       <updated>1594474813936</updated>
       <workItem from="1594474817348" duration="1334000" />
-      <workItem from="1594476312590" duration="11363000" />
+      <workItem from="1594476312590" duration="14442000" />
     </task>
     <servers />
   </component>

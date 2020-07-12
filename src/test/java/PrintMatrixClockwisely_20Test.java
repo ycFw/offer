@@ -5,7 +5,7 @@ import java.util.List;
 
 import static org.junit.Assert.*;
 
-public class PrintMatrixClockwiselyTest {
+public class PrintMatrixClockwisely_20Test {
 
     @Test
     public void printMatrix() {
