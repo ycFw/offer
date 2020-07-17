@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1badb39-fe7a-4a66-809c-b7c860f93ae3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/FindNumberIn2DArray_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FindRepeatNumber_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ReplaceSpace_05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FindNumberIn2DArray_04Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FindRepeatNumber_03Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ReplaceSpace_05Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PowerOfN_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PowerOfN_11Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PrintFromTopToBottom_23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PrintFromTopToBottom_23.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PrintMatrixClockwisely.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/PrintMatrixClockwiselyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/PrintMatrixClockwiselyTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FindNumberIn2DArray_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FindNumberIn2DArray_04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MirrorOfBinaryTree_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MirrorOfBinaryTree_19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MirrorOfBinaryTree_19Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MirrorOfBinaryTree_19Test.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +39,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
@@ -50,12 +48,15 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="" />
       <recent name="datastructure" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -73,7 +74,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.PowerOfN_11Test">
     <configuration name="FindNumberIn2DArray_04Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.yc.java" />
       <option name="PACKAGE_NAME" value="" />
@@ -92,10 +93,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MirrorOfBinaryTree_19Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PowerOfN_11Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.yc.java" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MirrorOfBinaryTree_19Test" />
+      <option name="MAIN_CLASS_NAME" value="PowerOfN_11Test" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -168,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PowerOfN_11Test" />
         <item itemvalue="JUnit.ReplaceSpace_05Test" />
         <item itemvalue="JUnit.FindNumberIn2DArray_04Test" />
         <item itemvalue="JUnit.FindRepeatNumber_03Test" />
         <item itemvalue="JUnit.PrintMatrixClockwisely_20Test" />
-        <item itemvalue="JUnit.MirrorOfBinaryTree_19Test" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +188,11 @@
       <option name="presentableId" value="Default" />
       <updated>1594474813936</updated>
       <workItem from="1594474817348" duration="1334000" />
-      <workItem from="1594476312590" duration="14442000" />
+      <workItem from="1594476312590" duration="15624000" />
+      <workItem from="1594539282437" duration="263000" />
+      <workItem from="1594545662733" duration="1833000" />
+      <workItem from="1594733473278" duration="316000" />
+      <workItem from="1594996152644" duration="3252000" />
     </task>
     <servers />
   </component>
@@ -199,7 +204,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

@@ -27,7 +27,6 @@ public class MirrorOfBinaryTree_19Test {
         TreeNode mirrorTreeNode = MirrorOfBinaryTree_19.mirrorLoop(root);
         int[] mirrorArray = TreeNode.binaryTreeToArray(mirrorTreeNode);
 
-
         assertArrayEquals(expectedArray, mirrorArray);
     }
 }

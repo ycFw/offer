@@ -11,7 +11,9 @@ import java.util.Queue;
  */
 public class MirrorOfBinaryTree_19 {
     public static TreeNode mirrorRecursively(TreeNode root) {
-        if (root == null) return root;
+        if (root == null) {
+            return root;
+        }
         TreeNode left = root.left;
         root.left = mirrorRecursively(root.right);
         root.right = mirrorRecursively(left);
@@ -19,14 +21,20 @@ public class MirrorOfBinaryTree_19 {
     }
 
     public static TreeNode mirrorLoop(TreeNode root) {
-        if (root == null) return root;
+        if (root == null) {
+            return root;
+        }
         Queue<TreeNode> queue = new LinkedList<TreeNode>();
         queue.offer(root);
 
         while (!queue.isEmpty()) {
             TreeNode node = queue.poll();
-            if (node.left != null) queue.offer(node.left);
-            if (node.right != null) queue.offer(node.right);
+            if (node.left != null) {
+                queue.offer(node.left);
+            }
+            if (node.right != null) {
+                queue.offer(node.right);
+            }
             TreeNode temp = node.left;
             node.left = node.right;
             node.right = temp;
