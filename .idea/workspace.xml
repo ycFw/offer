@@ -2,13 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1badb39-fe7a-4a66-809c-b7c860f93ae3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PowerOfN_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PowerOfN_11Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Add_65.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LowestCommonAncestorBST_68.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LowestCommonAncestorCommon_69.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Multiply_66.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StrToInt_67.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sum_solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Add_65Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LowestCommonAncestorBST_68Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LowestCommonAncestorCommon_69Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Multiply_66Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StrToInt_67Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Sum_solutionTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FindNumberIn2DArray_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FindNumberIn2DArray_04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MirrorOfBinaryTree_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MirrorOfBinaryTree_19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/MirrorOfBinaryTree_19Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MirrorOfBinaryTree_19Test.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +54,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -56,6 +62,9 @@
       <recent name="datastructure" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
@@ -74,47 +83,47 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PowerOfN_11Test">
-    <configuration name="FindNumberIn2DArray_04Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Sum_solution64Test">
+    <configuration name="Add_65Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.yc.java" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FindNumberIn2DArray_04Test" />
+      <option name="MAIN_CLASS_NAME" value="Add_65Test" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindRepeatNumber_03Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LowestCommonAncestorCommon_69Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.yc.java" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FindRepeatNumber_03Test" />
+      <option name="MAIN_CLASS_NAME" value="LowestCommonAncestorCommon_69Test" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PowerOfN_11Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Multiply_66Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.yc.java" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PowerOfN_11Test" />
+      <option name="MAIN_CLASS_NAME" value="Multiply_66Test" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintMatrixClockwisely_20Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StrToInt_67Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.yc.java" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PrintMatrixClockwisely_20Test" />
+      <option name="MAIN_CLASS_NAME" value="StrToInt_67Test" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReplaceSpace_05Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Sum_solution64Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.yc.java" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ReplaceSpace_05Test" />
+      <option name="MAIN_CLASS_NAME" value="Sum_solution64Test" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -169,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PowerOfN_11Test" />
-        <item itemvalue="JUnit.ReplaceSpace_05Test" />
-        <item itemvalue="JUnit.FindNumberIn2DArray_04Test" />
-        <item itemvalue="JUnit.FindRepeatNumber_03Test" />
-        <item itemvalue="JUnit.PrintMatrixClockwisely_20Test" />
+        <item itemvalue="JUnit.Sum_solution64Test" />
+        <item itemvalue="JUnit.Add_65Test" />
+        <item itemvalue="JUnit.Multiply_66Test" />
+        <item itemvalue="JUnit.StrToInt_67Test" />
+        <item itemvalue="JUnit.LowestCommonAncestorCommon_69Test" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +201,9 @@
       <workItem from="1594539282437" duration="263000" />
       <workItem from="1594545662733" duration="1833000" />
       <workItem from="1594733473278" duration="316000" />
-      <workItem from="1594996152644" duration="3252000" />
+      <workItem from="1594996152644" duration="4368000" />
+      <workItem from="1595054665433" duration="1958000" />
+      <workItem from="1595154365970" duration="4728000" />
     </task>
     <servers />
   </component>
