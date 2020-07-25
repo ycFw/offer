@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1badb39-fe7a-4a66-809c-b7c860f93ae3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Add_65.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LowestCommonAncestorBST_68.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LowestCommonAncestorCommon_69.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Multiply_66.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StrToInt_67.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sum_solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Add_65Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LowestCommonAncestorBST_68Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LowestCommonAncestorCommon_69Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Multiply_66Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/StrToInt_67Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Sum_solutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MaxProfitStock_63.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MaxProfitStock_63Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -83,7 +73,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Sum_solution64Test">
+  <component name="RunManager" selected="JUnit.MaxProfitStock_63Test.maxProfit03">
     <configuration name="Add_65Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.yc.java" />
       <option name="PACKAGE_NAME" value="" />
@@ -93,29 +83,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LowestCommonAncestorCommon_69Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MaxProfitStock_63Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.yc.java" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LowestCommonAncestorCommon_69Test" />
+      <option name="MAIN_CLASS_NAME" value="MaxProfitStock_63Test" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Multiply_66Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MaxProfitStock_63Test.maxProfit02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.yc.java" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Multiply_66Test" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="MaxProfitStock_63Test" />
+      <option name="METHOD_NAME" value="maxProfit02" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StrToInt_67Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MaxProfitStock_63Test.maxProfit03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.yc.java" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="StrToInt_67Test" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="MaxProfitStock_63Test" />
+      <option name="METHOD_NAME" value="maxProfit03" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -178,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MaxProfitStock_63Test.maxProfit03" />
+        <item itemvalue="JUnit.MaxProfitStock_63Test.maxProfit02" />
+        <item itemvalue="JUnit.MaxProfitStock_63Test" />
         <item itemvalue="JUnit.Sum_solution64Test" />
         <item itemvalue="JUnit.Add_65Test" />
-        <item itemvalue="JUnit.Multiply_66Test" />
-        <item itemvalue="JUnit.StrToInt_67Test" />
-        <item itemvalue="JUnit.LowestCommonAncestorCommon_69Test" />
       </list>
     </recent_temporary>
   </component>
